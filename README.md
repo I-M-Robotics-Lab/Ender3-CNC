@@ -10,17 +10,21 @@ This is a cheap mini CNC Router that can be made from Ender-3 parts. It can comp
 
 ## Components Required Beyond Ender 3 parts
 
-- **2 - 150mm MGN 12H Linear Rails
-- **M3x16
-- **M3x8
-- **M3x45
-- **Brass Heat-set Insert M3
-- **Brass Heat-set Insert M5
-- **Brass T8 Anti-Backlash
-- **Lead Screw
-- **M5 T-nuts
-- **M3 T-nuts
-- **Appropriate Spindle
+- 2 x 150mm MGN 12H Linear Rails
+- M3x16
+- M3x8
+- M3x45
+- Brass Heat-set Insert M3
+- Brass Heat-set Insert M5
+- Brass T8 Anti-Backlash
+- Lead Screw
+- M5 T-nuts
+- M3 T-nuts
+- Appropriate Spindle
+
+![List con_t](https://github.com/user-attachments/assets/e7d7fc7b-0426-4018-9248-19d6a845a6d5)
+![List](https://github.com/user-attachments/assets/4c451b57-e980-4656-8027-c50468f350fd)
+
 
 ## License
 
