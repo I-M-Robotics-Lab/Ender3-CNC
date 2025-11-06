@@ -8,6 +8,8 @@
 
 This is a cheap mini CNC Router that can be made from Ender-3 parts. It can complete tasks such as milling, engraving, drawing, and manufacturing PCBs. The machine is powered by Nema 17 motors, belts, and a lead screw. The electronics system of an Ender-3 with Klipper or Marlin can be directly integrated into the machine, but additional software calibration for CNC is needed. 
 
+Discord: https://discord.com/invite/WJuUWsy6DJ
+
 ## Components Required Beyond Ender 3 parts
 
 - 2 x 150mm MGN 12H Linear Rails
