@@ -3,8 +3,8 @@
 ### Description
 
 [![Firmware](https://img.shields.io/badge/Firmware-GRBL-blue.svg)](https://github.com/grbl/grbl)
+[![Platform](https://img.shields.io/badge/Platform-Arduino%20Uno-00979D.svg)](https://www.arduino.cc/)
 [![License](https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-orange.svg)](https://creativecommons.org/licenses/by-nc-sa/4.0/)
-[![Platform](https://img.shields.io/badge/Platform-Arduino%20Uno-orange.svg)](https://www.arduino.cc/)
 
 
 **Assembly Instructions & Electronics / Firmware Guidance:** [docs](https://www.imroboticslab.com/docs/ender-cnc)  | **Community Discord:** [https://discord.com/invite/WJuUWsy6DJ](https://discord.com/invite/WJuUWsy6DJ)
