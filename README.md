@@ -7,7 +7,7 @@
 [![License](https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-orange.svg)](https://creativecommons.org/licenses/by-nc-sa/4.0/)
 
 
-**[Website](https://www.imroboticslab.com/releases)** | **[Documentation](https://www.imroboticslab.com/docs/ender-cnc)**  | **[Community Discord](https://discord.com/invite/WJuUWsy6DJ)** 
+**[Website](https://www.imroboticslab.com/releases)** | **[Documentation](https://www.imroboticslab.com/docs/ender-cnc)**  | **[Community Discord](https://discord.com/invite/WJuUWsy6DJ)** | **[3D Prints](https://makerworld.com/en/models/1011230-ender-3-repurposed-cnc-router-engraver-pcb-maker#profileId-990638)**
 
 
 This is a cheap mini CNC Router that can be made from Ender-3 parts. It can complete tasks such as milling, engraving, drawing, and manufacturing PCBs. The machine is powered by Nema 17 motors, belts, and a lead screw. The electronics system of an Ender-3 with Klipper or Marlin can be directly integrated into the machine, but additional software calibration for CNC is needed. 
