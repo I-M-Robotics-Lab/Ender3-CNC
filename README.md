@@ -12,37 +12,37 @@
 
 This is a cheap mini CNC Router that can be made from Ender-3 parts. It can complete tasks such as milling, engraving, drawing, and manufacturing PCBs. The machine is powered by Nema 17 motors, belts, and a lead screw. The electronics system of an Ender-3 with Klipper or Marlin can be directly integrated into the machine, but additional software calibration for CNC is needed. 
 
-<table style={{ border: 'none', width: '100%', borderCollapse: 'collapse', textAlign: 'center' }}>
+<table style={{ width: '100%', borderCollapse: 'collapse', tableLayout: 'fixed', textAlign: 'center' }}>
   <tbody>
     <tr>
-      <td style={{ border: 'none', padding: '10px' }}>
+      <td style={{ width: '50%', padding: '8px', verticalAlign: 'middle' }}>
         <img
           src="https://cdn.jsdelivr.net/gh/I-M-Robotics-Lab/Ender3-CNC@main/Docs/pictures/iso_real.jpg"
           alt="Ender-CNC Isometric View"
-          style={{ width: '100%', maxWidth: '500px', height: 'auto' }}
+          style={{ width: '100%', maxWidth: '500px', height: 'auto', display: 'block', margin: '0 auto' }}
         />
       </td>
-      <td style={{ border: 'none', padding: '10px' }}>
+      <td style={{ width: '50%', padding: '8px', verticalAlign: 'middle' }}>
         <img
           src="https://cdn.jsdelivr.net/gh/I-M-Robotics-Lab/Ender3-CNC@main/Docs/pictures/front.jpg"
           alt="Ender-CNC Front View"
-          style={{ width: '100%', maxWidth: '500px', height: 'auto' }}
+          style={{ width: '100%', maxWidth: '500px', height: 'auto', display: 'block', margin: '0 auto' }}
         />
       </td>
     </tr>
     <tr>
-      <td style={{ border: 'none', padding: '10px' }}>
+      <td style={{ width: '50%', padding: '8px', verticalAlign: 'middle' }}>
         <img
           src="https://cdn.jsdelivr.net/gh/I-M-Robotics-Lab/Ender3-CNC@main/Docs/pictures/1.png"
           alt="Ender-CNC Frame View 1"
-          style={{ width: '100%', maxWidth: '500px', height: 'auto' }}
+          style={{ width: '100%', maxWidth: '500px', height: 'auto', display: 'block', margin: '0 auto' }}
         />
       </td>
-      <td style={{ border: 'none', padding: '10px' }}>
+      <td style={{ width: '50%', padding: '8px', verticalAlign: 'middle' }}>
         <img
           src="https://cdn.jsdelivr.net/gh/I-M-Robotics-Lab/Ender3-CNC@main/Docs/pictures/2.png"
           alt="Ender-CNC Frame View 2"
-          style={{ width: '100%', maxWidth: '500px', height: 'auto' }}
+          style={{ width: '100%', maxWidth: '500px', height: 'auto', display: 'block', margin: '0 auto' }}
         />
       </td>
     </tr>
