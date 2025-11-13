@@ -12,6 +12,7 @@
 
 This is a cheap mini CNC Router that can be made from Ender-3 parts. It can complete tasks such as milling, engraving, drawing, and manufacturing PCBs. The machine is powered by Nema 17 motors, belts, and a lead screw. The electronics system of an Ender-3 with Klipper or Marlin can be directly integrated into the machine, but additional software calibration for CNC is needed. 
 
+![iso_pic](https://raw.githubusercontent.com/I-M-Robotics-Lab/Ender3-CNC/main/Docs/pictures/1.png)
 <table>
   <tr>
     <td align="center" width="50%">
@@ -23,7 +24,7 @@ This is a cheap mini CNC Router that can be made from Ender-3 parts. It can comp
   </tr>
   <tr>
     <td align="center" width="50%">
-      <img src="https://raw.githubusercontent.com/I-M-Robotics-Lab/Ender3-CNC/main/Docs/pictures/1.png" alt="Frame Isometric" width="100%"/>
+      <img src="https://raw.githubusercontent.com/I-M-Robotics-Lab/Ender3-CNC/main/Docs/pictures/1.png](https://github.com/user-attachments/assets/3ec0e4fd-58ab-4e6f-9542-f8040d8457a8" alt="front" width="100%"/>
     </td>
     <td align="center" width="50%">
       <img src="https://raw.githubusercontent.com/I-M-Robotics-Lab/Ender3-CNC/main/Docs/pictures/2.png" alt="Isometric View Far" width="100%"/>
