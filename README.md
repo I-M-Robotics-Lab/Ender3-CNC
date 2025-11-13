@@ -12,36 +12,24 @@
 
 This is a cheap mini CNC Router that can be made from Ender-3 parts. It can complete tasks such as milling, engraving, drawing, and manufacturing PCBs. The machine is powered by Nema 17 motors, belts, and a lead screw. The electronics system of an Ender-3 with Klipper or Marlin can be directly integrated into the machine, but additional software calibration for CNC is needed. 
 
-<div style={{ display: 'grid', gridTemplateColumns: 'repeat(2, minmax(0, 1fr))', gap: '16px' }}>
-  <div style={{ aspectRatio: '4 / 3', overflow: 'hidden' }}>
-    <img
-      src="https://cdn.jsdelivr.net/gh/I-M-Robotics-Lab/Ender3-CNC@main/Docs/pictures/iso_real.jpg"
-      alt="Isometric Real"
-      style={{ width: '100%', height: '100%', objectFit: 'cover', display: 'block' }}
-    />
-  </div>
-  <div style={{ aspectRatio: '4 / 3', overflow: 'hidden' }}>
-    <img
-      src="https://cdn.jsdelivr.net/gh/I-M-Robotics-Lab/Ender3-CNC@main/Docs/pictures/front.jpg"
-      alt="Front Real"
-      style={{ width: '100%', height: '100%', objectFit: 'cover', display: 'block' }}
-    />
-  </div>
-  <div style={{ aspectRatio: '4 / 3', overflow: 'hidden' }}>
-    <img
-      src="https://cdn.jsdelivr.net/gh/I-M-Robotics-Lab/Ender3-CNC@main/Docs/pictures/1.png"
-      alt="Frame Isometric"
-      style={{ width: '100%', height: '100%', objectFit: 'cover', display: 'block' }}
-    />
-  </div>
-  <div style={{ aspectRatio: '4 / 3', overflow: 'hidden' }}>
-    <img
-      src="https://cdn.jsdelivr.net/gh/I-M-Robotics-Lab/Ender3-CNC@main/Docs/pictures/2.png"
-      alt="Isometric View Far"
-      style={{ width: '100%', height: '100%', objectFit: 'cover', display: 'block' }}
-    />
-  </div>
-</div>
+<table>
+  <tr>
+    <td align="center" width="50%">
+      <img src="https://raw.githubusercontent.com/I-M-Robotics-Lab/Ender3-CNC/main/Docs/pictures/iso_real.jpg" alt="Isometric Real" width="100%"/>
+    </td>
+    <td align="center" width="50%">
+      <img src="https://raw.githubusercontent.com/I-M-Robotics-Lab/Ender3-CNC/main/Docs/pictures/front.jpg" alt="Front Real" width="100%"/>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="50%">
+      <img src="https://raw.githubusercontent.com/I-M-Robotics-Lab/Ender3-CNC/main/Docs/pictures/1.png" alt="Frame Isometric" width="100%"/>
+    </td>
+    <td align="center" width="50%">
+      <img src="https://raw.githubusercontent.com/I-M-Robotics-Lab/Ender3-CNC/main/Docs/pictures/2.png" alt="Isometric View Far" width="100%"/>
+    </td>
+  </tr>
+</table>
 
 
 
