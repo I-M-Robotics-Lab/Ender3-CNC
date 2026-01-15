@@ -19,7 +19,10 @@ This is a cheap mini CNC Router that can be made from Ender-3 parts. It can comp
       <img src="https://raw.githubusercontent.com/I-M-Robotics-Lab/Ender3-CNC/main/Docs/pictures/pic.jpg" width="100%"/>
     </td>
     <td align="center" width="50%">
-      <img src="https://raw.githubusercontent.com/I-M-Robotics-Lab/Ender3-CNC/main/Docs/pictures/cut.jpg" width="100%"/>
+      <img
+        src="https://raw.githubusercontent.com/I-M-Robotics-Lab/Ender3-CNC/main/Docs/pictures/cut.jpg"
+        style="width:100%; aspect-ratio:16/9; object-fit:cover;"
+      />
     </td>
   </tr>
   <tr>
@@ -39,10 +42,6 @@ This is a cheap mini CNC Router that can be made from Ender-3 parts. It can comp
     </td>
   </tr>
 </table>
-
-pic.jpg
-cut.jpg
-
 
 
 ### Components Required Beyond Ender 3 parts
