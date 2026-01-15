@@ -32,6 +32,9 @@ This is a cheap mini CNC Router that can be made from Ender-3 parts. It can comp
   </tr>
 </table>
 
+pic.jpg
+cut.jpg
+
 
 ### Components Required Beyond Ender 3 parts
 
